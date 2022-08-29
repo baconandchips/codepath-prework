@@ -22,19 +22,22 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+* [x] Implemented Settings Menu, to change 3 values of tip size
+* [x] Used UserDefaults to persistently store tip percentage size across all app usages
+* [x] Read documentation to learn synchronize() is deprecated, action is now done on default
+* [x] Improved UI through rearrangement and clarification
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/baconandchips/codepath-prework/blob/main/prework-overview.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Understanding the Settings page requirements, how to get there through my own googling, and building out the features without explicit guidance was definitely a great learning experience. I benefitted a lot from getting limited scaffolding guidance, and then gaining confidence in my own abilities as a developer by completing the tasks through my own explorations. 
 
 ## License
 
